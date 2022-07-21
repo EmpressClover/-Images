@@ -69,3 +69,8 @@ button {
     margin-left:15px;
     margin-right:15px;
 }
+
+button:hover {
+    background-color: #2e2e2e; /* Green */
+
+}
